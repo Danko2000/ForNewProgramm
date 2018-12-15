@@ -2,3 +2,4 @@ print("Hello world")
 print("Hello everybody")
 принт
 тут тоже чт-то дописал
+hello my dear friend!
